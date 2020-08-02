@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594941927885.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1092908911",
+    "id" : "91972C24",
+    "lastKnownWriteTime" : 1594942764,
+    "last_content_update" : 1594942764381,
+    "path" : "~/Documents/HIV_gag_seqs/rmsd.txt",
+    "project_path" : "rmsd.txt",
+    "properties" : {
+        "cursorPosition" : "2,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

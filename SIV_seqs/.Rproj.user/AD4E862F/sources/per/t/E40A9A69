@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594691605579.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E40A9A69",
+    "lastKnownWriteTime" : 4501179523,
+    "last_content_update" : 1594691605579,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "eb50448bc57b4620bff2bf617744b4a1",
+        "name" : "vp_mas",
+        "title" : "vp_mas"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

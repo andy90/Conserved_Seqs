@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594691493359.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "76856891",
+    "id" : "F457FABE",
+    "lastKnownWriteTime" : 1594747787,
+    "last_content_update" : 1594747787245,
+    "path" : "~/Documents/SIV_seqs/remove_gaps.R",
+    "project_path" : "remove_gaps.R",
+    "properties" : {
+        "cursorPosition" : "43,0",
+        "scrollLine" : "27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

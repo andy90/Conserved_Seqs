@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594691850316.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "51C0F265",
+    "lastKnownWriteTime" : 140249712674176,
+    "last_content_update" : 1594691850316,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6F8605C0",
+        "caption" : "vp_msa_aligned",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=vp_msa_aligned&cache_key=6F8605C0",
+        "displayedObservations" : 338,
+        "environment" : "",
+        "expression" : "vp_msa_aligned",
+        "object" : "vp_msa_aligned",
+        "preview" : 0,
+        "totalObservations" : 338,
+        "variables" : 697
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

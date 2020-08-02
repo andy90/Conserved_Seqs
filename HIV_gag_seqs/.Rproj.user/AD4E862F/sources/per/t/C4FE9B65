@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594748867476.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2568106456",
+    "id" : "C4FE9B65",
+    "lastKnownWriteTime" : 1594748887,
+    "last_content_update" : 1594748887271,
+    "path" : "~/Documents/HIV_gag_seqs/immunogen_shuffled_overlap.R",
+    "project_path" : "immunogen_shuffled_overlap.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

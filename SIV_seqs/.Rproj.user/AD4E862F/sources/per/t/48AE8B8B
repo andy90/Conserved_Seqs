@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594691443670.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3871782492",
+    "id" : "48AE8B8B",
+    "lastKnownWriteTime" : 1594691434,
+    "last_content_update" : 1594691434,
+    "path" : "~/Documents/SIV_seqs/siv_gag_aligned.fasta",
+    "project_path" : "siv_gag_aligned.fasta",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

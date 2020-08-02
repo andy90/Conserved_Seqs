@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594746903502.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E86EB670",
+    "lastKnownWriteTime" : 140459995989704,
+    "last_content_update" : 1594746903502,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "59174ab7713a4c3c8667a2689f54c5d6",
+        "name" : "p17_conserved",
+        "title" : "p17_conserved"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

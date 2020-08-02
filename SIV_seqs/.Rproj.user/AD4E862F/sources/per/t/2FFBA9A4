@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594683081813.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2026960270",
+    "id" : "2FFBA9A4",
+    "lastKnownWriteTime" : 1594684798,
+    "last_content_update" : 1594684798486,
+    "path" : "~/Documents/SIV_seqs/read_seqs.R",
+    "project_path" : "read_seqs.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

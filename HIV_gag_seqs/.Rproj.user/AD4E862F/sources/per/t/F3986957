@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594748549021.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F3986957",
+    "lastKnownWriteTime" : 4324917500,
+    "last_content_update" : 1594748549021,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "617088d35af3414392d1217986c90cd2",
+        "name" : "overlaped",
+        "title" : "overlaped"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
