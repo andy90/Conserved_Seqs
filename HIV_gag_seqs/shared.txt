@@ -1,6 +1,0 @@
-SPRTL HIV p24 res 16-20
-      SIV p24 res 15-19
-NEEAA HIV p24 res 74-78
-      SIV p24 res 73-77
-GSDIAGTTS HIV p24 res 101-109
-          SIV p24 res 98-106
